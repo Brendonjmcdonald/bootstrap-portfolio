@@ -1,0 +1,26 @@
+.me-image {
+	width: 300px;
+	height: auto;
+	float: left;
+	margin-right: 10px
+}
+
+.social {
+	width: 100px;
+	height: auto;
+}
+
+p {
+	font-size: 18px;
+}
+
+.footer {
+	text-align: center;
+	background-color: grey;
+	height: 50px;
+}
+
+.work {
+	width: 274px;
+	height: 270px;
+}
